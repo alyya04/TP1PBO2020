@@ -1,0 +1,17 @@
+Saya Non Alyya Yan Hari dengan NIM 1804430 Mengerjakan TP1
+dalam mata kuliah Desain dan Pemograman Berorientasi Objek,
+untuk keberkahan-Nya, saya tidak melakukan kecurangan seperti
+yang telah di spesifikasikan, aamin.
+
+kesulitan :
+ - masih belum menguasai materinya, dan masih kebingungan
+
+ilmu :
+ banyak sekali semua yang ada di spesifikasi soal menjadi ilmu baru
+dan juga pelajaran agar tidak menunda pekerjaan
+
+fitur :
+-login
+-logout
+-milihbarang
+-search barang
